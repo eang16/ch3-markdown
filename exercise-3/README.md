@@ -8,4 +8,9 @@ A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+# mkdir
+
+The `mkdir` command can be used to make directories. For example:
+`mkdir git_practice`
+
 See `complete` branch for answers.
