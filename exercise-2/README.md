@@ -6,8 +6,8 @@ In the space below, make a three column table of the current courses you are tak
 
 | **Course Number** | _Course Title_ | Instructor |
 | ----------------- |  ------------- | ---------- |
-| 14850             | ENVIR 100 A    | Wheat, Elizabeth |
-| 16590 | INFO 201 A | Freeman, Michael |
-| 16609 | INFO 340 B | Root, Randal |
+| **14850**             | _ENVIR 100 A_    | Wheat, Elizabeth |
+| **16590** | _INFO 201 A_ | Freeman, Michael |
+| **16609** | _INFO 340 B_ | Root, Randal |
 
 See `complete` branch for answers.
