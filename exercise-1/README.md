@@ -6,7 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 > It's supposed to be hard. If it were easy, everyone would do it.
 
-Visit [Board of Wisdom][] for more information
 [Board of Wisdom]: https://boardofwisdom.com/togo/Quotes/ShowQuote?msgid=32657#.WdGDntN97u0
 
 See `complete` branch for an example.
